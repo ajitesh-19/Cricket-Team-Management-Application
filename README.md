@@ -15,9 +15,6 @@ This project aims to develop a user-friendly web application specifically design
 * **Database Management:**
     * Utilizes a MySQL database for secure storage of user authentication details and team information.
     * Implements efficient database queries for retrieving and storing user and team data.
-* **Role-Based Access Control:**
-    * Differentiates between user and administrator roles.
-    * Grants additional privileges for administrators, such as team deletion and modification functionalities.
 * **Frontend Design:**
     * Employs HTML and CSS for crafting a visually appealing and intuitive user interface.
     * Potential integration of JavaScript for dynamic content loading or client-side form validation.
